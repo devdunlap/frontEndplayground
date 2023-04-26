@@ -40,22 +40,27 @@ span {
 }
 
 .top-section {
-    background-color: #9a8c98;
+    /* background-color: #9a8c98; */
+    background-image: url(./Images/twopeople.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
     width: 500px;
     /* height: 100px; */
     margin: 5px;
-    padding: 5px;
+    padding: 250px;
     border: #4a4e69 3px solid;
     
     
 }
 
 .bottom-section {
-    background-color: #4a4e69;
+    /* background-color: #4a4e69; */
+    background-image: url(./Images/mandalas-geabfb3d04_1920.jpg);
     width: 500px;
     /* height: 100px; */
     margin: 5px;
-    padding: 5px;
+    padding: 250px;
     border: #9a8c98 3px solid;
     text-align: left;
 }
